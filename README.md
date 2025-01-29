@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jelina-bhatt-2384472b4/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100094908996377" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rawalmohit12/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/jelina.bhatt" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100094908996377" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hey I am Jelina Bhatt</h1>
+<h1 align="center">Hey I am Mohit Rawal</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Kanchanpur Nepal<br><br>- 🔭 I’m a Computer Engineering Student<br>- 📚 I'm currently learning C++ , JavaScript , Python.<br>- ⚡ In my free time I generally used to do</p>
+<p align="left">I'm from Kanchanpur Nepal<br><br>- 🔭 I’m a Bsc CSIT STUDENT <br>- 📚 I'm currently learning Java , JavaScript , ReactJs.<br>- ⚡ In my free time I generally used to do</p>
 
 ###
 
@@ -47,9 +47,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
