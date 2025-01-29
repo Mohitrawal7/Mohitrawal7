@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100094908996377" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-rawal-9480a52b2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rawalmohit12/" target="_blank">
