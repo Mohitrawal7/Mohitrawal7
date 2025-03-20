@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Kanchanpur Nepal<br><br>- 🔭 I’m a Bsc CSIT STUDENT <br>- 📚 I'm currently learning Java , JavaScript , ReactJs.<br>- ⚡ In my free time I generally used to do</p>
+<p align="left">I'm from Kanchanpur Nepal<br><br>- 🔭 I’m a Bsc CSIT STUDENT <br>- 📚 I'm currently learning Java , JavaScript , ReactJs.<br>- ⚡ In my free time I generally used to play chess & listen to music </p>
 
 ###
 
