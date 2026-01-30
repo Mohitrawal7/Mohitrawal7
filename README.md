@@ -1,94 +1,67 @@
 <div align="center">
-  <img height="300" src="https://"  />
+  <h1>Hi, I'm Mohit Rawal 👋</h1>
+  <p>BSc CSIT Student | Full Stack Developer | Java & JavaScript Enthusiast</p>
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohit-rawal-9480a52b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rawalmohit12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100094908996377" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+## 🔹 About Me
 
-###
+I'm a BSc CSIT student from Kanchanpur, Nepal, passionate about **full-stack development** and building **production-ready applications**. I enjoy learning new technologies, working on real projects, and solving complex problems.  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohitrawal7.Mohitrawal7&"  />
-</div>
+- 🔭 I’m currently focusing on **Java (Spring Boot), ReactJS, Angular, PostgreSQL, and cloud deployment**.  
+- 🌱 I have hands-on experience with **REST APIs, authentication, and database design**.  
+- ⚡ In my free time, I enjoy **chess, coding challenges, and exploring new tech tools**.  
 
-###
+---
 
-<h1 align="center">Hey I am Mohit Rawal</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Kanchanpur Nepal<br><br>- 🔭 I’m a Bsc CSIT STUDENT <br>- 📚 I'm proficient in usage of Java(Spring Boot)  , JavaScript( ReactJs,Angular ) and Postgres .<br>- ⚡ In my free time I generally used to play chess & listen to music </p>
-
-###
-
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611v5pzxxyav497vgyentif2klx9ghk6y3he2h4jjkj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Skills & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
 </div>
 
-###
+---
 
-<!-- <h3 align="left">🔥   My Stats :</h3>
+## 💼 Projects & Experience
 
-###
+### **Learning Management System (LMS)**
+- Full-stack web application with **Spring Boot backend** and **ReactJS frontend**.
+- Implemented **role-based access, authentication, REST APIs**, and **PostgreSQL database**.
+- Deployed on **AWS** for testing real-time production environment.
+
+### **Portfolio Website**
+- Built using **ReactJS**, showcasing my **skills, projects, and GitHub contributions**.
+- Focused on **clean design, responsiveness, and performance**.
+
+### **E-commerce Mini Project**
+- Created a **PERN stack application** with product catalog, cart system, and **Stripe payment integration**.
+- Applied **REST API best practices** and **Firebase for notifications**.
+
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitrawal7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohitrawal7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
-
-###
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohitrawal7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"   />
-</div> 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mohitrawal7/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohitrawal7&show_icons=true&theme=dracula" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohitrawal7&layout=compact&theme=dracula" height="150" alt="Top Languages"/>
 </div>
 
-</div>
-<hr bgcolor="blue" >
+---
+
+## 📫 Contact Me
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mohitrawal7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <hr bgcolor="blue" >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitrawal7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+  <a href="mailto:your.email@example.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/mohit-rawal-9480a52b2/">LinkedIn</a> • 
+  <a href="https://github.com/Mohitrawal7">GitHub</a>
 </div>
