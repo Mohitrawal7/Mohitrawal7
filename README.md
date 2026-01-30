@@ -9,7 +9,7 @@
 
 I'm a BSc CSIT student from Kanchanpur, Nepal, passionate about **full-stack development** and building **production-ready applications**. I enjoy learning new technologies, working on real projects, and solving complex problems.  
 
-- 🔭 I’m currently focusing on **Java (Spring Boot), ReactJS, Angular, PostgreSQL, and cloud deployment**.  
+- 🔭 I’m currently focusing on **Java (Spring Boot), ReactJS, PostgreSQL, and cloud deployment**.  
 - 🌱 I have hands-on experience with **REST APIs, authentication, and database design**.  
 - ⚡ In my free time, I enjoy **chess, coding challenges, and exploring new tech tools**.  
 
@@ -22,11 +22,9 @@ I'm a BSc CSIT student from Kanchanpur, Nepal, passionate about **full-stack dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
 </div>
 
 ---
