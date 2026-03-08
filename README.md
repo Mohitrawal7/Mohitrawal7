@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mohit Rawal 👋</h1>
-  <p>BSc CSIT Student | Full Stack Developer | Java & JavaScript Enthusiast</p>
+  <p>BSc CSIT Student | Full Stack Developer | Java & React Enthusiast</p>
 </div>
 
 ---
@@ -24,7 +24,7 @@ I'm a BSc CSIT student from Kanchanpur, Nepal, passionate about **full-stack dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> -->
 </div>
 
 ---
