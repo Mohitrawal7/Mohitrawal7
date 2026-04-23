@@ -34,15 +34,15 @@ I'm a BSc CSIT student from Kanchanpur, Nepal, passionate about **full-stack dev
 ### **Learning Management System (LMS)**
 - Full-stack web application with **Spring Boot backend** and **ReactJS frontend**.
 - Implemented **role-based access, authentication, REST APIs**, and **PostgreSQL database**.
-- Deployed on **AWS** for testing real-time production environment.
+- Deployed on vercel ,render and neon for better stability
 
 ### **Portfolio Website**
 - Built using **ReactJS**, showcasing my **skills, projects, and GitHub contributions**.
 - Focused on **clean design, responsiveness, and performance**.
 
 ### **E-commerce Mini Project**
-- Created a **PERN stack application** with product catalog, cart system, and **Stripe payment integration**.
-- Applied **REST API best practices** and **Firebase for notifications**.
+- Created a **react application** with product catalog, cart system .
+- Applied **REST API best practices** .
 
 
 ---
